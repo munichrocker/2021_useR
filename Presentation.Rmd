@@ -1,6 +1,6 @@
 ---
 title: "Datawrappr Package"
-subtitle: "Creating interactive charts with the Datawrapper API"
+subtitle: "https://bit.ly/3wOa8jv"
 author: "Benedict Witzenberger"
 institute: "Süddeutsche Zeitung"
 date: "2021-07-06 (updated: `r Sys.Date()`)"
@@ -12,6 +12,14 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+---
+
+class: hide_logo, middle, center
+
+This presentation is available on:
+
+https://bit.ly/3wOa8jv
+
 ---
 
 class: hide_logo
